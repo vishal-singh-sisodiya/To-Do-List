@@ -31,7 +31,8 @@ JavaScript
 The application features a clean and intuitive user interface, built with HTML and styled using CSS. It focuses on simplicity and ease of use, enabling users to manage their daily tasks effectively.
 ![image](https://github.com/user-attachments/assets/5fd621d0-d42b-479b-82ab-3a6664170999)
 ![image](https://github.com/user-attachments/assets/14e2cdbc-84d2-452c-b21e-b1d0596f7952)
-![Uploading image.png…]()
+
+
 
 
 
